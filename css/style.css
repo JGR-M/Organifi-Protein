@@ -1,0 +1,11 @@
+body {
+    background: url("../img/table.jpeg")  no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}           /*   for image to fit whole page and responsive when window size change */
+
+.brand-logo {
+    margin-top: 15px;
+}
